@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-<h1 align="center">Emotion-Aware Music Recommendation System</h1>
+<h1 align="center">Emotion-Driven Music Recommendation System</h1>
 
 <p align="center">
   An intelligent NLP platform that detects human emotions from input text and curates personalized music recommendations to match your mood.
