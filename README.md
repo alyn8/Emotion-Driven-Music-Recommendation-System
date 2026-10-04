@@ -144,7 +144,7 @@ Balanced look at target emotion distributions across the dataset:
 #### 2. Sentence Length Distribution
 Length metrics and token distributions analyzed during data exploration:
 <p align="center">
-  <img src="static/Sentence-length-distribution.png" alt="Sentence Length Distribution" width="550"/>
+  <img src="static/sentence-length-distribution.png" alt="Sentence Length Distribution" width="550"/>
 </p>
 
 #### 3. Model Confusion Matrix
